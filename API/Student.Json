@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "location": "New York",
+      "phone_number": "+1234567890",
+      "courses": ["Computer Science", "C++"]
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "location": "Los Angeles",
+      "phone_number": "+1987654321",
+      "courses": ["Mathematics", "Biology"]
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "location": "Chicago",
+      "phone_number": "+1122334455",
+      "courses": ["Physics", "Psychology"]
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "location": "Houston",
+      "phone_number": "+1765432109",
+      "courses": ["Biology", "Mathematics"]
+    },
+    {
+      "id": "5",
+      "name": "Emily Davis",
+      "location": "San Francisco",
+      "phone_number": "+1654789023",
+      "courses": ["Chemistry", "Computer Science"]
+    },
+    {
+      "id": "6",
+      "name": "Michael Wilson",
+      "location": "Miami",
+      "phone_number": "+1987601234",
+      "courses": ["Psychology", "Biology"]
+    }
+  ]
+}
